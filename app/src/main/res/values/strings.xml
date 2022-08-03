@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Firebase OTP</string>
+    <string name="enter_your_mobile_number">Enter your mobile number</string>
+    <string name="_33000000">33000000</string>
+    <string name="resend_code">RESEND CODE ?</string>
+    <string name="verify">Verify</string>
+    <string name="your_verification_code_is_sent">Your verification code is sent :</string>
+</resources>
